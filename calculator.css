@@ -1,0 +1,28 @@
+body{
+  background-color: black;
+}
+.answer-screen{
+  color: white;
+  font-size: 25px;
+  font-family: arial;
+}
+.gray-buttons{
+ height: 60px;
+ width: 60px;
+ border-radius: 50px;
+ border: none;
+ background-color: rgb(68, 66, 66);
+ font-size: 20px;
+ color: white;
+ cursor: pointer;
+}
+.orange-buttons{
+  height: 60px;
+ width: 60px;
+ border-radius: 50px;
+ border: none;
+ background-color: rgb(254, 160, 10);
+ font-size: 20px;
+ color: white; 
+ cursor: pointer;
+}
